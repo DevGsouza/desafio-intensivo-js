@@ -1,6 +1,6 @@
 ## 🚀 Descrição
 
-<p><strong>Desafio de scripts com o JS.</strong></p>
+<h2><strong>Desafio de scripts com o JS.</strong></h2>
 
 Você pode apresentar o resultado tanto no **console** quanto em um **alerta** no navegador.
 
